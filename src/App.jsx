@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
           singed commit message
+          actual signed commit
         </p>
       </div>
       <p className="read-the-docs">
