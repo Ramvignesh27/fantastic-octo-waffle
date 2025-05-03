@@ -23,6 +23,7 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
+          singed commit message
         </p>
       </div>
       <p className="read-the-docs">
